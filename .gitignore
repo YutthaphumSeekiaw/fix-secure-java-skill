@@ -43,7 +43,7 @@ pnpm-lock.yaml
 npm-debug.log
 
 # Copilot / GitHub agent data
-.copilot/
+# .copilot/
 
 # GitHub agent cache
 .github/agents/.cache
